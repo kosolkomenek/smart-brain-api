@@ -1,4 +1,5 @@
 # SmartBrain-api - Final
+
 Final project for ZTM course
 
 1. Clone this repo
@@ -9,7 +10,6 @@ Final project for ZTM course
 
 You can grab Clarifai API key [here](https://www.clarifai.com/)
 
-** Make sure you use postgreSQL instead of mySQL for this code base.
+\*\* Make sure you use postgreSQL instead of mySQL for this code base.
 
-*visist https://zerotomastery.io/ for more*
-
+_visist https://zerotomastery.io/ for more_
